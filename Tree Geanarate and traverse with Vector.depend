@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564945326 source:c:\badhon\tree geanarate and traverse with vector\main.cpp
+	<iostream>
+	<vector>
+
+1565027205 source:c:\badhon\tree geanarate and traverse with linkedlist\main.cpp
+	<iostream>
+	<vector>
+
